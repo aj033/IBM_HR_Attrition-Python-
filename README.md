@@ -43,7 +43,7 @@ Prescriptive Analytics - What should we do?
 
 ## Data Collection
 All the data that I used for this project came from the Kaggle website(IBM HR Attrition Dataset). There were 35 features and 1499 observations. 
-## Data Cleansing
+## Data Cleaning
 As part of data cleansing, I implemented the following steps:
 
 Dropped 4 features which had no predictive power(had constant values)
@@ -64,7 +64,7 @@ Handled the problem of class imbalance by upsampling and downsamplimg the data. 
 Trained three models 
 1) Logistic Regression
 2) Random Forest Classifier
-3) Gradient Boosting Classifier
+3) Gradient Boosting Classifier. 
 Gradient Boosting Classifier provided the best results, so I used it to  predict probability of employee leaving.
 ## Conclusion
 Binary Classification: Turnover V.S. Non Turnover
