@@ -62,9 +62,9 @@ Created dummy variables for categorical features and then combined them with num
 Handled the problem of class imbalance by upsampling and downsamplimg the data. Concluded that SMOTE produced the best results.
 ## Modeling
 Trained three models 
-Logistic Regression
-Random Forest Classifier
-Gradient Boosting Classifier
+1) Logistic Regression
+2) Random Forest Classifier
+3) Gradient Boosting Classifier
 Gradient Boosting Classifier provided the best results, so I used it to  predict probability of employee leaving.
 ## Conclusion
 Binary Classification: Turnover V.S. Non Turnover
