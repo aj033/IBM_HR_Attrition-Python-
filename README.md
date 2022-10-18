@@ -83,4 +83,5 @@ Solution 1:
 
 We can rank employees by their probability of leaving, then allocate a limited incentive budget to the highest probability instances. OR, we can allocate our incentive budget to the instances with the highest expected loss, for which we'll need the probability of turnover. Solution 2: Develop learning programs for managers. Then use analytics to gauge their performance and measure progress. Some advice:
 
+
 Be a good coach Empower the team and do not micromanage Express interest for team member success Have clear vision /strategy for team Help team with career development
